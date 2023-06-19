@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AkshatDasondhi.github.io/word-count/static/css/main.d299ff1b.css",
+    "main.js": "/AkshatDasondhi.github.io/word-count/static/js/main.ba3298bd.js",
+    "static/js/787.f2512186.chunk.js": "/AkshatDasondhi.github.io/word-count/static/js/787.f2512186.chunk.js",
+    "index.html": "/AkshatDasondhi.github.io/word-count/index.html",
+    "main.d299ff1b.css.map": "/AkshatDasondhi.github.io/word-count/static/css/main.d299ff1b.css.map",
+    "main.ba3298bd.js.map": "/AkshatDasondhi.github.io/word-count/static/js/main.ba3298bd.js.map",
+    "787.f2512186.chunk.js.map": "/AkshatDasondhi.github.io/word-count/static/js/787.f2512186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d299ff1b.css",
+    "static/js/main.ba3298bd.js"
+  ]
+}
